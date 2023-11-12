@@ -1,0 +1,2 @@
+# teamC-devLog
+teamCのDevLogになります。

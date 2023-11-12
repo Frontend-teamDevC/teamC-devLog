@@ -1,7 +1,7 @@
 ##　 参加メンバー
 [kano](https://github.com/SouthernMinami)
 [mish](https://github.com/daxchx)
-[morio] (https://github.com/m0rio0818)
+[morio](https://github.com/m0rio0818)
 
 ## チームでの決まり
 わからないことがあったら、discordのチャットに投稿　→ 顔合わせで話したり返信したりする。
@@ -49,7 +49,7 @@ Trello, github issueの連携を行う
 
 # 2023/11/12 チームCミーティング
 2023/11/12 20:30(JST)
-記録　[morio] (https://github.com/m0rio0818)
+記録　[morio](https://github.com/m0rio0818)
 参加者　[kano](https://github.com/SouthernMinami), [mish](https://github.com/daxchx)
 
 * ToDo

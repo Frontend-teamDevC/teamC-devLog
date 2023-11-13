@@ -64,5 +64,32 @@ Trello, github issueの連携を行う
     * typescriptのバージョン統一するには、Docker必要か考える。
 
 * 確認したいこと
-    * logファイルを作成する際のブランチを切り方。
-    * おそらくTrelloのpowerupの機能を使えば、Github issueとtrelloの連携ができるのではないか。[URL](https://support.atlassian.com/ja/trello/docs/using-the-github-power-up/)<br> 
+    * logファイルを作成する際のブランチを切り方。 → 練習込みで自分のブランチを切って、コミットしていく。
+    * また、練習込みで、開発リポジトリでdevelopブランチをdefaultにする。
+    * おそらくTrelloのpowerupの機能を使えば、Github issueとtrelloの連携ができるのではないか。[URL](https://support.atlassian.com/ja/trello/docs/using-the-github-power-up/)<br>
+ 
+# 2023/11/13 チームCミーティング
+ → 練習込みで自分のブランチを切って、コミットしていく。
+    * また、練習込みで、開発リポジトリでdevelopブランチをdefaultにする。
+
+*　dockerの使用
+　　　とりあえず、ローカルで環境構築を行なってみて、軽く動かしてみる。　今週日曜までに、いじってみていけそうだったら使用、無理そうだったら手動で合わせる。（morio, kano）
+
+* phaserの進捗
+  * 木曜日に、みんなでわからない箇所等話し合う（勉強会）
+
+* eslint, pritter
+  * kanoさんが、個人のblackjackでeslint, prittierの経験あり。
+  * 初回、eslint、 prittierの設定を行えば、他の人にも反映される。[eslint設定方法](https://typescriptbook.jp/tutorials/eslint) (mish)
+  * docker考慮なしで、dockerでいけそうだったら、dokcer上に設定にする。
+    
+* クラス図
+  * 今週中に抽象クラス等を考慮したものを作成(kano)
+
+* シーケンス図
+  *　後付け
+  
+* Trelloをもう少し触ってみる。
+* github issueテンプレ作成
+    * bug, 新規機能で作成。
+

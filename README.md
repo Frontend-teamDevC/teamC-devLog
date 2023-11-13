@@ -62,3 +62,7 @@ Trello, github issueの連携を行う
     * Linter とコードフォーマッターの設定 eslint、prettierの設定を調べる。
     * [Phaser](https://dev.classmethod.jp/articles/phaser-js-typescript-vite/), [TypeScrpit](https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a) のキャッチアップ
     * typescriptのバージョン統一するには、Docker必要か考える。
+
+* 確認したいこと
+    * logファイルを作成する際のブランチを切り方。
+    * おそらくTrelloのpowerupの機能を使えば、Github issueとtrelloの連携ができるのではないか。[URL](https://support.atlassian.com/ja/trello/docs/using-the-github-power-up/)<br> 

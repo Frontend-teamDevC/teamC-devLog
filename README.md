@@ -61,7 +61,6 @@ Figmaを使用
 ## タスク管理
 Trello, github issueの連携を行う
 
-
 ## ミーティング日程
 月曜、木曜 21時〜22時
 
@@ -73,12 +72,20 @@ Phaser学習会、各種セットアップ、技術構成の確認、ワイヤ�
 11/19 ~ 11/25
 * blackjackのプロトタイプ(最低限の機能等の実装)のデザイン考慮なしで作成したい。
 * Phaserを使って、トランプ等の配置を行なっていきたい。
-* ワイヤーフレームのイメージ合わせ(11/20)
+* ワイヤーフレームのイメージ合わせ(11/22)
+* 実装は以下の通りに行う。
+    * クラス作成 =(MVCのMode作成)は以下が担当する。
+        * Blackjack: Kano
+        * War : mishi
+        * Poker: Nakatani
+    * クラスを作成する人は、ワイヤーフレーム、シーケンス図、クラス図の作成まで行う。
+    * Viewはクラス（Model）を作った人以外の二人で作成していく。
+* Splint2にクラス図、ワイヤーフレーム、シーケンス図の作成完了を目標にする。
 
 11/26 ~ 12/2
 * blackjackの未完成部分を完了させる。 <br>
 機能的には、black jackで遊べるくらいまで作成したい。
-* デザイン、図、色 ->　スタイリング
+* デザイン、図、色 ->　スタイリングに関して話し合って検討していく。
 
 12/3 ~ 12/9
 
@@ -90,8 +97,11 @@ Phaser学習会、各種セットアップ、技術構成の確認、ワイヤ�
 11/11 ~ 11/18
 * Phaserのチュートリアルを行った。(必要になったタイミングで再度、確認をする)
 * Dockerのセットアップを行った。
-* プロトタイプ作成の担当場所：　現時点ではクラスごとに担当していく。
-* クラス図kanoさんのを採用していく。
+* プロトタイプ作成のコーディング担当：現時点ではクラスごとに担当していく。
+* クラス図、シーケンス図、ワイヤーフレームのの作成担当は以下。
+    * Blackjack: Kano
+    * War : mish
+    * Poker: Nakatani
 
 11/19 ~ 11/25
 
@@ -101,4 +111,5 @@ Phaser学習会、各種セットアップ、技術構成の確認、ワイヤ�
 * [2023/11/12]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231111-1112.md")
 * [2023/11/13]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231113.md")
 * [2023/11/16]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231116.md")
+* [2023/11/19]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231119.md")
 * [2023/11/20]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231120.md")

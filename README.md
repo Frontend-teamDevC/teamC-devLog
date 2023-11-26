@@ -98,12 +98,16 @@ Phaser学習会、各種セットアップ、技術構成の確認、ワイヤ�
 * Phaserのチュートリアルを行った。(必要になったタイミングで再度、確認をする)
 * Dockerのセットアップを行った。
 * プロトタイプ作成のコーディング担当：現時点ではクラスごとに担当していく。
-* クラス図、シーケンス図、ワイヤーフレームのの作成担当は以下。
+* クラス図、シーケンス図、ワイヤーフレームの作成担当は以下。
     * Blackjack: Kano
     * War : mish
     * Poker: Nakatani
 
 11/19 ~ 11/25
+* Black jackのシーケンス図、ワイヤーフレーム、クラス図の作成
+* Blackjackのベースとなるコード(Model)の作成。
+* Blackjack, Warの2つを先に作成する方針に変更。(Black Jack: kano, morio, War: mish)
+
 
 
 
@@ -113,3 +117,5 @@ Phaser学習会、各種セットアップ、技術構成の確認、ワイヤ�
 * [2023/11/16]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231116.md")
 * [2023/11/19]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231119.md")
 * [2023/11/20]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231120.md")
+* [2023/11/22]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231122.md")
+* [2023/11/25(admin MTG)]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231125_Admin.md")

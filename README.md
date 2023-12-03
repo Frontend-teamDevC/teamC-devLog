@@ -88,6 +88,9 @@ Phaser学習会、各種セットアップ、技術構成の確認、ワイヤ�
 * デザイン、図、色 ->　スタイリングに関して話し合って検討していく。
 
 12/3 ~ 12/9
+* black jack, warのphaeserの実装を行う。
+* pokerのプロトタイプを完成させる。
+* speedのシーケンス図等の作成を行う。
 
 12/10 ~ 12/16
 
@@ -108,8 +111,12 @@ Phaser学習会、各種セットアップ、技術構成の確認、ワイヤ�
 * Blackjackのベースとなるコード(Model)の作成。
 * Blackjack, Warの2つを先に作成する方針に変更。(Black Jack: kano, morio, War: mish)
 
+11/26 ~ 12/2
+* Blackjackで遊べるくらいまで作成した。
+* warに関しても、、簡易的なhtmlで遊べるようになっている.
+* Pokerは現在、modelの作成中
 
-
+12/3 ~ 12/9
 
 ## 議事録
 * [2023/11/12]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231111-1112.md")
@@ -119,3 +126,5 @@ Phaser学習会、各種セットアップ、技術構成の確認、ワイヤ�
 * [2023/11/20]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231120.md")
 * [2023/11/22]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231122.md")
 * [2023/11/25(admin MTG)]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231125_Admin.md")
+* [2023/11/27]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231127.md")
+* [2023/12/03]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231203.md")

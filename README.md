@@ -124,6 +124,12 @@ Phaser学習会、各種セットアップ、技術構成の確認、ワイヤ�
 * phaserのinput中。phaerに関して、詰まっており、そこからなかなか進まない状況。
 * speedの設計にも着手中。
 
+12/10 ~ 12/17
+* blackjackは完成
+* war phaserの導入もほとんど完了した
+* pokerのプロトタイプの作成完了。現在,phaserの導入中。
+* speedも実装中。
+
 ## 議事録
 * [2023/11/12]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231111-1112.md")
 * [2023/11/13]("https://github.com/Frontend-teamDevC/teamC-devLog/blob/main/minutes/20231113.md")
